@@ -74,3 +74,5 @@ console.log(number2);
 
 
 console.log(number2);
+
+console.log(number2);
