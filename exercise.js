@@ -71,3 +71,6 @@ console.log(func());
 let number1 = 1;
 let number2 = number1 + 1;
 console.log(number2);
+
+
+console.log(number2);
